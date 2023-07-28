@@ -1,0 +1,8 @@
+E:\Assisted project\Section 6\HandlingDate1.8\bin\Debug\HandlingDate1.8.exe.config
+E:\Assisted project\Section 6\HandlingDate1.8\bin\Debug\HandlingDate1.8.exe
+E:\Assisted project\Section 6\HandlingDate1.8\bin\Debug\HandlingDate1.8.pdb
+E:\Assisted project\Section 6\HandlingDate1.8\obj\Debug\HandlingDate1.8.csproj.AssemblyReference.cache
+E:\Assisted project\Section 6\HandlingDate1.8\obj\Debug\HandlingDate1.8.csproj.SuggestedBindingRedirects.cache
+E:\Assisted project\Section 6\HandlingDate1.8\obj\Debug\HandlingDate1.8.csproj.CoreCompileInputs.cache
+E:\Assisted project\Section 6\HandlingDate1.8\obj\Debug\HandlingDate1.8.exe
+E:\Assisted project\Section 6\HandlingDate1.8\obj\Debug\HandlingDate1.8.pdb
